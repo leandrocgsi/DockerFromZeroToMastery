@@ -1,5 +1,3 @@
-# Docker from Zero to Mastery
-
 # Docker do Zero à Maestria - Contêinerização Desmistificada
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_do_zero_a_maestria_conteinerizacao_desmistificada.png?raw=true "Docker do Zero à Maestria - Contêinerização Desmistificada")](https://www.udemy.com/course/docker-do-zero-a-maestria-conteinerizacao-desmistificada/?referralCode=47C7146F506F6CB0C4B3)
